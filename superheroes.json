@@ -1,40 +1,40 @@
 {
-  "squadName" : "Super Hero Squad",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
-  "secretBase" : "Super tower",
-  "active" : true,
+  "squadName" : "Escuadra de SuperHeroes Noobs",
+  "homeTown" : "La villita ",
+  "formed" : 1420,
+  "secretBase" : "Torre Latino",
+  "active" : yes of course,
   "members" : [
     {
-      "name" : "Molecule Man",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
+      "name" : "Carmen Salinas",
+      "age" : 70,
+      "secretIdentity" : "Doña cuca",
       "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+        "Radiacion extrema",
+        "Super fuerza",
+        "Dispara acido letal"
       ]
     },
     {
-      "name" : "Madame Uppercut",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
+      "name" : "Chente Fernandez",
+      "age" : 88,
+      "secretIdentity" : "Pedrito JR",
       "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+        "Sinfonia Letal",
+        "Modo Ninja",
+        "Toca pechos 3000"
       ]
     },
     {
-      "name" : "Eternal Flame",
+      "name" : "chabelo",
       "age" : 1000000,
-      "secretIdentity" : "Unknown",
+      "secretIdentity" : "niño inocente",
       "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+        "inmortal",
+        "quita vidas",
+        "Infiernos",
+        "Teleportacion",
+        "vuelo"
       ]
     }
   ]
